@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Komal Goel</h1>
-<h3 align="center">💻 Computer Engineering Student | 🚀 AI/ML & Web Developer | ☁️ Cloud Enthusiast</h3>
+<h3 align="center">💻 Electronics and Computer Engineering Student | 🚀 AI/ML & Web Developer | ☁️ Cloud Enthusiast</h3>
 
 ---
 
 ### 🌟 About Me
-- 🎓 Currently pursuing **B.E. in Computer Engineering** at **Thapar Institute of Engineering and Technology**  
+- 🎓 Currently pursuing **B.E. in Electronics and Computer Engineering** at **Thapar Institute of Engineering and Technology**  
 - 💡 Passionate about **AI/ML, Cloud Computing, and Full-Stack Development**  
-- 🔭 Exploring **React Native • Angular • Next.js • C++ • Python**  
+- 🔭 Exploring **React Native • Angular • Next.js • C++**  
 - 🌱 Constantly learning & building projects — *learning by doing!*  
 
 ---
