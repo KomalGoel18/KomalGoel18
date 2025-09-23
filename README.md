@@ -19,9 +19,8 @@
 ---
 
 ### 📌 Featured Projects
-- 📊 [Algorithm_Analysis_and_Design_Project](https://github.com/KomalGoel18/Algorithm_Analysis_and_Design_Project) – Advanced algorithm design & performance analysis  
-- 🗄️ [DBMS-Project](https://github.com/KomalGoel18/DBMS-Project) – A database management system project (schema + queries + docs)  
-- 🧩 [LeetCode](https://github.com/KomalGoel18/LeetCode) – My problem-solving journey with curated LeetCode solutions  
+- 🌐 [mcts-predictor](https://github.com/KomalGoel18/mcts-predictor) – ML model to predict win rates between Monte Carlo Tree Search (MCTS) variants, simulate tournament leaderboards, and explore performance comparisons.  
+- 🧩 [LeetCode](https://github.com/KomalGoel18/LeetCode) – My problem-solving journey with curated LeetCode solutions    
 
 ---
 
@@ -33,20 +32,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomalGoel18&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KomalGoel18&theme=radical" alt="GitHub Activity Graph" />
-</p>
-
----
-
-### 👀 Profile Visitors
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=KomalGoel18&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
