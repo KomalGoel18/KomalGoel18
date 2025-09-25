@@ -6,7 +6,7 @@
 ### 🌟 About Me
 - 🎓 Currently pursuing **B.E. in Electronics and Computer Engineering** at **Thapar Institute of Engineering and Technology**  
 - 💡 Passionate about **AI/ML, Cloud Computing, and Full-Stack Development**  
-- 🔭 Exploring **React Native • Angular • Next.js • C++**  
+- 🔭 Exploring **Java • Angular • Next.js • C++**  
 - 🌱 Constantly learning & building projects — *learning by doing!*  
 
 ---
@@ -20,7 +20,8 @@
 
 ### 📌 Featured Projects
 - 🌐 [mcts-predictor](https://github.com/KomalGoel18/mcts-predictor) – ML model to predict win rates between Monte Carlo Tree Search (MCTS) variants, simulate tournament leaderboards, and explore performance comparisons.  
-- 🧩 [LeetCode](https://github.com/KomalGoel18/LeetCode) – My problem-solving journey with curated LeetCode solutions    
+- 🏛️ [library-management-dbms](https://github.com/KomalGoel18/library-management-dbms) – Library Management System using SQL & PL/SQL (customer & employee login, media inventory, rentals & fines, full DB schema & documentation).  
+- 🧩 [LeetCode](https://github.com/KomalGoel18/LeetCode) – My problem-solving journey with curated LeetCode solutions   
 
 ---
 
