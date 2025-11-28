@@ -13,7 +13,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,matlab,js,ts,react,nextjs,angular,html,css,nodejs,mysql,git,github,vscode,figma,arduino&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,matlab,js,ts,react,nextjs,angular,html,css,nodejs,mysql,git,github,vscode,figma,arduino&perline=12" />
 </p>
 
 ---
