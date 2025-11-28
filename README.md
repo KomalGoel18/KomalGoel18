@@ -13,7 +13,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,angular,html,css,nodejs,mysql,git,github,vscode,figma,arduino&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,matlab,js,ts,react,nextjs,angular,html,css,nodejs,mysql,git,github,vscode,figma,arduino&perline=8" />
 </p>
 
 ---
@@ -28,12 +28,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KomalGoel18&show_icons=true&theme=radical" alt="Komal's GitHub stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KomalGoel18&theme=radical" alt="GitHub streak" height="180" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KomalGoel18&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=KomalGoel18&theme=radical" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomalGoel18&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KomalGoel18&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
