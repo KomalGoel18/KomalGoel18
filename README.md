@@ -28,12 +28,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KomalGoel18&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=KomalGoel18&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KomalGoel18&show_icons=true&theme=radical&rank_icon=github" height="170" />
+  <img src="https://streak-stats.demolab.com?user=KomalGoel18&theme=radical" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KomalGoel18&layout=compact&theme=radical" height="180"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomalGoel18&layout=compact&theme=radical" height="170" />
 </p>
 
 ---
