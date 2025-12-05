@@ -35,10 +35,6 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KomalGoel18&theme=radical" height="170" />
-</p>
-
-<p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomalGoel18&layout=compact&theme=radical" height="170" />
 </p>
 
