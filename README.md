@@ -11,10 +11,10 @@
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,matlab,js,ts,react,nextjs,angular,html,css,nodejs,mysql,git,github,vscode,figma,arduino,pandas,numpy,sklearn,jupyter&perline=12" />
-</p>
+### 🛠️ Languages & Tools 
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=cpp,python,matlab,js,ts,react,nextjs,angular,html,css,nodejs,mysql,git,github,vscode,figma,arduino&perline=12" /> 
+</p> 
 
 ---
 
@@ -28,20 +28,18 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KomalGoel18&show_icons=true&theme=radical" alt="Komal's GitHub stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KomalGoel18&theme=radical" alt="GitHub streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KomalGoel18&show_icons=true&theme=radical&rank_icon=github" height="170" />
+  <img src="https://streak-stats.demolab.com?user=KomalGoel18&theme=radical" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomalGoel18&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=KomalGoel18&theme=radical" height="170" />
 </p>
 
----
-
-### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KomalGoel18&theme=radical" alt="GitHub Activity Graph" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomalGoel18&layout=compact&theme=radical" height="170" />
 </p>
 
 ---
