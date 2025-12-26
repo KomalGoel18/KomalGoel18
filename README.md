@@ -19,7 +19,7 @@
 ---
 
 ### 📌 Featured Projects
-- 💻 [CodeCamp](https://github.com/KomalGoel18/CodeCamp) – Full-stack online coding platform (LeetCode-style) with problem solving, code submissions, automated evaluation, discussions, and authentication.
+- 💻 [CodeCamp](https://github.com/KomalGoel18/CodeCamp) – Full-stack online coding platform with problem solving, code submissions, automated evaluation, discussions, and authentication.
 - 📈 [Stock-price-prediction](https://github.com/KomalGoel18/Stock-price-prediction) – Machine Learning project for forecasting stock price movements using data preprocessing, feature engineering, regression models & visual trend analysis.
 - 🔮 [Soft-Computing](https://github.com/KomalGoel18/Soft-Computing) – Implementation of Soft-Computing techniques including Neural Networks, Fuzzy Logic & Genetic Algorithms for optimization and pattern recognition.
 - 🌐 [mcts-predictor](https://github.com/KomalGoel18/mcts-predictor) – ML model to predict win rates between Monte Carlo Tree Search (MCTS) variants, simulate tournament leaderboards, and explore performance comparisons.  
