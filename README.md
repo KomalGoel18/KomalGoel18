@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Komal Goel</h1>
-<h3 align="center">💻 Electronics and Computer Engineering Student | 🚀 AI/ML & Web Developer | ☁️ Cloud Enthusiast</h3>
+<h3 align="center">💻 Electronics & Computer Engineering Student | 🚀 AI/ML Engineer & Full-Stack Developer | ☁️ Cloud & Systems Enthusiast</h3>
 
 ---
 
 ### 🌟 About Me
-- 🎓 Currently pursuing **B.E. in Electronics and Computer Engineering** at **Thapar Institute of Engineering and Technology**  
-- 💡 Passionate about **AI/ML, Cloud Computing, and Full-Stack Development**  
-- 🔭 Exploring **Java • Angular • Next.js • C++**  
-- 🌱 Constantly learning & building projects — *learning by doing!*  
+- 🎓 Currently pursuing **B.E. in Electronics and Computer Engineering** at **Thapar Institute of Engineering and Technology** (2022–Present) {index=1}  
+- 🛰️ Former **Remote Sensing Intern** — built high-accuracy ML models for cyclone forecasting (94%) & methane emission estimation (97%) using NASA/NOAA satellite data & Google Earth Engine {index=2}  
+- 🧠 Strong foundation in **AI, Machine Learning, Cloud Computing, DSA, OS, DBMS & NLP** {index=3}  
+- 🔭 Working with **C/C++, Java, Python, JavaScript, MATLAB**, and frameworks like **React, Node.js, Express, PyTorch, TensorFlow, Flask** {index=4}  
+- 🌱 Building scalable systems, ML models & full-stack applications — *learning by doing!*  
+- 🏆 Co-author of research on **AI-powered facial recognition attendance systems** and **patent holder** for intelligent attendance automation {index=5}  
 
 ---
 
 ### 🛠️ Languages & Tools 
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=cpp,python,matlab,js,ts,react,nextjs,angular,html,css,nodejs,express,mongodb,mysql,git,github,vscode,figma,arduino&perline=15" /> 
+  <img src="https://skillicons.dev/icons?i=cpp,python,matlab,java,php,js,ts,react,nextjs,angular,html,css,nodejs,express,mongodb,mysql,postgresql,git,github,vscode,figma,arduino,aws,pytorch,tensorflow,flask,keras,jquery,linux,ubuntu&perline=15" /> 
 </p> 
 
 ---
