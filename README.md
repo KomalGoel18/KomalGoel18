@@ -4,12 +4,12 @@
 ---
 
 ### 🌟 About Me
-- 🎓 Currently pursuing **B.E. in Electronics and Computer Engineering** at **Thapar Institute of Engineering and Technology** (2022–Present) {index=1}  
-- 🛰️ Former **Remote Sensing Intern** — built high-accuracy ML models for cyclone forecasting (94%) & methane emission estimation (97%) using NASA/NOAA satellite data & Google Earth Engine {index=2}  
-- 🧠 Strong foundation in **AI, Machine Learning, Cloud Computing, DSA, OS, DBMS & NLP** {index=3}  
-- 🔭 Working with **C/C++, Java, Python, JavaScript, MATLAB**, and frameworks like **React, Node.js, Express, PyTorch, TensorFlow, Flask** {index=4}  
+- 🎓 Currently pursuing **B.E. in Electronics and Computer Engineering** at **Thapar Institute of Engineering and Technology** (2022–Present) 
+- 🛰️ Former **Remote Sensing Intern** — built high-accuracy ML models for cyclone forecasting (94%) & methane emission estimation (97%) using NASA/NOAA satellite data & Google Earth Engine
+- 🧠 Strong foundation in **AI, Machine Learning, Cloud Computing, DSA, OS, DBMS & NLP**
+- 🔭 Working with **C/C++, Java, Python, JavaScript, MATLAB**, and frameworks like **React, Node.js, Express, PyTorch, TensorFlow, Flask**
 - 🌱 Building scalable systems, ML models & full-stack applications — *learning by doing!*  
-- 🏆 Co-author of research on **AI-powered facial recognition attendance systems** and **patent holder** for intelligent attendance automation {index=5}  
+- 🏆 Co-author of research on **AI-powered facial recognition attendance systems** and **patent holder** for intelligent attendance automation
 
 ---
 
