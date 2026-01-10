@@ -15,12 +15,13 @@
 
 ### 🛠️ Languages & Tools 
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=cpp,python,matlab,java,php,js,ts,react,nextjs,angular,html,css,nodejs,express,mongodb,mysql,postgresql,git,github,vscode,figma,arduino,aws,pytorch,tensorflow,flask,keras,jquery,linux,ubuntu&perline=15" /> 
+  <img src="https://skillicons.dev/icons?i=cpp,python,matlab,java,php,js,ts,react,nextjs,angular,html,css,nodejs,express,mongodb,mysql,postgresql,git,github,vscode,figma,arduino,aws,pytorch,tensorflow,sklearn,flask,keras,jquery,linux,ubuntu&perline=15" /> 
 </p> 
 
 ---
 
 ### 📌 Featured Projects
+- ⚡ [Weather-Based-Power-Load-Forecasting](https://github.com/KomalGoel18/Weather-Based-Power-Load-Forecasting) – ML-based system for predicting electricity demand using historical weather & consumption data to support smart energy management.
 - 💻 [CodeCamp](https://github.com/KomalGoel18/CodeCamp) – Full-stack online coding platform with problem solving, code submissions, automated evaluation, discussions, and authentication.
 - 📈 [Stock-price-prediction](https://github.com/KomalGoel18/Stock-price-prediction) – Machine Learning project for forecasting stock price movements using data preprocessing, feature engineering, regression models & visual trend analysis.
 - 🔮 [Soft-Computing](https://github.com/KomalGoel18/Soft-Computing) – Implementation of Soft-Computing techniques including Neural Networks, Fuzzy Logic & Genetic Algorithms for optimization and pattern recognition.
