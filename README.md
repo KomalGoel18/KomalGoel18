@@ -15,19 +15,20 @@
 
 ### 🛠️ Languages & Tools 
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=cpp,python,matlab,java,php,js,ts,react,nextjs,angular,html,css,nodejs,express,mongodb,mysql,postgresql,git,github,vscode,figma,arduino,aws,pytorch,tensorflow,sklearn,flask,keras,jquery,linux,ubuntu&perline=15" /> 
+  <img src="https://skillicons.dev/icons?i=cpp,python,matlab,java,php,js,ts,react,nextjs,angular,html,css,nodejs,express,mongodb,mysql,postgresql,git,github,vscode,figma,arduino,aws,pytorch,tensorflow,sklearn,flask,keras,jquery,opencv,linux,ubuntu&perline=15" /> 
 </p> 
 
 ---
 
 ### 📌 Featured Projects
+- 🧾 [Intelligent-Registration-System](https://github.com/KomalGoel18/Intelligent-Registration-System) – End-to-end intelligent registration platform with a complete frontend UI and backend automation to handle form submissions, validations, and workflow processing.
 - ⚡ [Weather-Based-Power-Load-Forecasting](https://github.com/KomalGoel18/Weather-Based-Power-Load-Forecasting) – ML-based system for predicting electricity demand using historical weather & consumption data to support smart energy management.
 - 💻 [CodeCamp](https://github.com/KomalGoel18/CodeCamp) – Full-stack online coding platform with problem solving, code submissions, automated evaluation, discussions, and authentication.
 - 📈 [Stock-price-prediction](https://github.com/KomalGoel18/Stock-price-prediction) – Machine Learning project for forecasting stock price movements using data preprocessing, feature engineering, regression models & visual trend analysis.
 - 🔮 [Soft-Computing](https://github.com/KomalGoel18/Soft-Computing) – Implementation of Soft-Computing techniques including Neural Networks, Fuzzy Logic & Genetic Algorithms for optimization and pattern recognition.
 - 🌐 [mcts-predictor](https://github.com/KomalGoel18/mcts-predictor) – ML model to predict win rates between Monte Carlo Tree Search (MCTS) variants, simulate tournament leaderboards, and explore performance comparisons.  
 - 🏛️ [library-management-dbms](https://github.com/KomalGoel18/library-management-dbms) – Library Management System using SQL & PL/SQL (customer & employee login, media inventory, rentals & fines, full DB schema & documentation).  
-- 🧩 [LeetCode](https://github.com/KomalGoel18/LeetCode) – My problem-solving journey with curated LeetCode solutions      
+- 🧩 [LeetCode](https://github.com/KomalGoel18/LeetCode) – My problem-solving journey with curated LeetCode solutions  
 
 ---
 
@@ -54,3 +55,5 @@
 ### ⚡ Fun Fact
 💡 *Code + Coffee = Happiness ☕*  
 🌍 Open to **collaboration** and new **learning opportunities**
+
+---
