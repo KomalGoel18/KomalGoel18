@@ -15,8 +15,8 @@
 
 ### 🛠️ Languages & Tools 
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=cpp,python,matlab,java,php,js,ts,react,nextjs,angular,html,css,nodejs,express,mongodb,mysql,postgresql,git,github,vscode,figma,arduino,aws,pytorch,tensorflow,sklearn,flask,keras,jquery,opencv,linux,ubuntu&perline=15" /> 
-</p> 
+  <img src="https://skillicons.dev/icons?i=cpp,python,matlab,java,php,js,ts,react,nextjs,angular,html,css,tailwind,nodejs,express,mongodb,mysql,postgresql,git,github,vscode,figma,arduino,aws,pytorch,tensorflow,sklearn,flask,keras,jquery,opencv,linux,ubuntu,vercel,netlify,postcss,radix,framer&perline=15" /> 
+</p>
 
 ---
 
