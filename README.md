@@ -1,25 +1,6 @@
 <h1 align="center">
-  Hi <span class="wave">👋</span>, I'm Komal Goel
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Komal Goel
 </h1>
-
-<style>
-.wave {
-  display: inline-block;
-  transform-origin: 70% 70%;
-  animation: wave 1.8s infinite;
-}
-
-@keyframes wave {
-  0% { transform: rotate(0deg); }
-  15% { transform: rotate(14deg); }
-  30% { transform: rotate(-8deg); }
-  45% { transform: rotate(14deg); }
-  60% { transform: rotate(-4deg); }
-  75% { transform: rotate(10deg); }
-  100% { transform: rotate(0deg); }
-}
-</style>
-
 <h3 align="center">💻 Electronics & Computer Engineering Student | 🚀 AI/ML Engineer & Full-Stack Developer | ☁️ Cloud & Systems Enthusiast</h3>
 
 ---
