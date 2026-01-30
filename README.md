@@ -32,6 +32,14 @@
 
 ---
 
+### 🏆 Kaggle Competitions
+
+- **Celebal AnaVerse 2.0 – Advanced Analytics Challenge**  
+  *Kaggle Hiring Competition by Celebal Technologies*
+  🔗 https://www.kaggle.com/competitions/ana-verse-2-0-n/leaderboard
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KomalGoel18&show_icons=true&theme=radical" alt="Komal's GitHub stats" height="180" />
