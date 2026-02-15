@@ -37,7 +37,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 
 ### AI / ML & Computer Vision
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
@@ -50,16 +52,19 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render)
 
 ---
 
 ### 📌 Featured Projects
-- 🧾 [Intelligent-Registration-System](https://github.com/KomalGoel18/Intelligent-Registration-System) – End-to-end intelligent registration platform with a complete frontend UI and backend automation to handle form submissions, validations, and workflow processing.
-- ⚡ [Weather-Based-Power-Load-Forecasting](https://github.com/KomalGoel18/Weather-Based-Power-Load-Forecasting) – ML-based system for predicting electricity demand using historical weather & consumption data to support smart energy management.
+
+- 📝 [NoteMark](https://github.com/KomalGoel18/NoteMark) – Full-stack personal notes & bookmark manager with JWT authentication, search, tag filtering, favorites, MongoDB Atlas, and deployment on Vercel & Render.
+- 🧾 [Intelligent-Registration-System](https://github.com/KomalGoel18/Intelligent-Registration-System) – End-to-end intelligent registration platform with a complete frontend UI and backend automation for validations and workflow processing.
+- ⚡ [Weather-Based-Power-Load-Forecasting](https://github.com/KomalGoel18/Weather-Based-Power-Load-Forecasting) – ML-based system for predicting electricity demand using historical weather & consumption data for smart energy management.
 - 💻 [SolveOn](https://github.com/KomalGoel18/SolveOn) – Full-stack online coding platform with problem solving, code submissions, automated evaluation, discussions, and authentication.
-- 📈 [Stock-price-prediction](https://github.com/KomalGoel18/Stock-price-prediction) – Machine Learning project for forecasting stock price movements using data preprocessing, feature engineering, regression models & visual trend analysis.
-- 🌐 [mcts-predictor](https://github.com/KomalGoel18/mcts-predictor) – ML model to predict win rates between Monte Carlo Tree Search (MCTS) variants, simulate tournament leaderboards, and explore performance comparisons.  
-- 🏛️ [library-management-dbms](https://github.com/KomalGoel18/library-management-dbms) – Library Management System using SQL & PL/SQL (customer & employee login, media inventory, rentals & fines, full DB schema & documentation).  
+- 📈 [Stock-price-prediction](https://github.com/KomalGoel18/Stock-price-prediction) – Machine learning project for forecasting stock price movements using preprocessing, feature engineering, regression models & visual analysis.
+- 🌐 [mcts-predictor](https://github.com/KomalGoel18/mcts-predictor) – ML model to predict win rates between Monte Carlo Tree Search variants and simulate tournament leaderboards.
+- 🏛️ [library-management-dbms](https://github.com/KomalGoel18/library-management-dbms) – Library management system using SQL & PL/SQL with authentication, inventory, rentals, fines, and full DB schema.
 
 ---
 
