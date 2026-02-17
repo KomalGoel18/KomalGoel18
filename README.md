@@ -58,13 +58,14 @@
 
 ### 📌 Featured Projects
 
-- 📝 [NoteMark](https://github.com/KomalGoel18/NoteMark) – Full-stack personal notes & bookmark manager with JWT authentication, search, tag filtering, favorites, MongoDB Atlas, and deployment on Vercel & Render.
+- 📝 [NoteMark](https://github.com/KomalGoel18/NoteMark) – Full-stack personal notes & bookmark manager with JWT authentication, search, tag filtering, favorites, MongoDB Atlas, and deployment on Vercel & Render.  
+  🔗 **Live Demo:** https://notemark-hub.vercel.app/
 - 🧾 [Intelligent-Registration-System](https://github.com/KomalGoel18/Intelligent-Registration-System) – End-to-end intelligent registration platform with a complete frontend UI and backend automation for validations and workflow processing.
 - ⚡ [Weather-Based-Power-Load-Forecasting](https://github.com/KomalGoel18/Weather-Based-Power-Load-Forecasting) – ML-based system for predicting electricity demand using historical weather & consumption data for smart energy management.
 - 💻 [SolveOn](https://github.com/KomalGoel18/SolveOn) – Full-stack online coding platform with problem solving, code submissions, automated evaluation, discussions, and authentication.
 - 📈 [Stock-price-prediction](https://github.com/KomalGoel18/Stock-price-prediction) – Machine learning project for forecasting stock price movements using preprocessing, feature engineering, regression models & visual analysis.
 - 🌐 [mcts-predictor](https://github.com/KomalGoel18/mcts-predictor) – ML model to predict win rates between Monte Carlo Tree Search variants and simulate tournament leaderboards.
-- 🏛️ [library-management-dbms](https://github.com/KomalGoel18/library-management-dbms) – Library management system using SQL & PL/SQL with authentication, inventory, rentals, fines, and full DB schema.  
+- 🏛️ [library-management-dbms](https://github.com/KomalGoel18/library-management-dbms) – Library management system using SQL & PL/SQL with authentication, inventory, rentals, fines, and full DB schema. 
 
 ---
 
