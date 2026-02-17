@@ -65,7 +65,7 @@
 - 💻 [SolveOn](https://github.com/KomalGoel18/SolveOn) – Full-stack online coding platform with problem solving, code submissions, automated evaluation, discussions, and authentication.
 - 📈 [Stock-price-prediction](https://github.com/KomalGoel18/Stock-price-prediction) – Machine learning project for forecasting stock price movements using preprocessing, feature engineering, regression models & visual analysis.
 - 🌐 [mcts-predictor](https://github.com/KomalGoel18/mcts-predictor) – ML model to predict win rates between Monte Carlo Tree Search variants and simulate tournament leaderboards.
-- 🏛️ [library-management-dbms](https://github.com/KomalGoel18/library-management-dbms) – Library management system using SQL & PL/SQL with authentication, inventory, rentals, fines, and full DB schema. 
+- 🏛️ [Library Management System](https://github.com/KomalGoel18/Library-Management-System) – Library management system using SQL & PL/SQL with authentication, inventory, rentals, fines, and full DB schema. 
 
 ---
 
