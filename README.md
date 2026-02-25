@@ -1,17 +1,18 @@
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Komal Goel
 </h1>
-<h3 align="center">💻 Electronics & Computer Engineering Student | 🚀 AI/ML Engineer & Full-Stack Developer</h3>
+<h3 align="center">🧩 SDE Intern @ MintMelon • 👩‍💻 Full-Stack Dev • 🤖 AI/ML Engineer • ☁️ Cloud & Systems</h3>
 
 ---
 
 ### 🌟 About Me
-- 🎓 Currently pursuing **B.E. in Electronics and Computer Engineering** at **Thapar Institute of Engineering and Technology** (2022–Present) 
-- 🛰️ Former **Remote Sensing Intern** — built high-accuracy ML models for cyclone forecasting (94%) & methane emission estimation (97%) using NASA/NOAA satellite data & Google Earth Engine
+
+- 🎓 Pursuing **B.E. in Electronics & Computer Engineering** at **Thapar Institute of Engineering and Technology** (2022–Present)  
+- 💼 **Software Development Intern @ MintMelon Business Consulting LLP**
+- 🛰️ Former **Remote Sensing Intern** — developed high-accuracy ML models for **cyclone forecasting (94%)** & **methane emission estimation (97%)** using NASA/NOAA satellite data & Google Earth Engine  
 - 🧠 Strong foundation in **AI, Machine Learning, Cloud Computing, DSA, OS, DBMS & NLP**
-- 🔭 Working with **C/C++, Java, Python, JavaScript, MATLAB**, and frameworks like **React, Node.js, Express, PyTorch, TensorFlow, Flask**
-- 🌱 Building scalable systems, ML models & full-stack applications — *learning by doing!*  
-- 🏆 Co-author of research on **AI-powered facial recognition attendance systems** and **patent holder** for intelligent attendance automation
+- 🏆 **Research co-author** — AI-powered facial recognition attendance system & **patent holder** for intelligent attendance automation  
+- 🌱 Passionate about building **scalable systems, ML models, and production-ready full-stack applications**
 
 ---
 
@@ -113,7 +114,7 @@
 
 <td align="center" width="220">
 
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="60"/><br/><br/>
+<img src="https://img.icons8.com/ios-filled/100/ffffff/domain.png" width="60"/><br/><br/>
 <b>Portfolio</b><br/>
 <a href="https://komalgoel.vercel.app/" target="_blank"><nobr>Visit Website</nobr></a>
 
