@@ -20,8 +20,6 @@
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 
@@ -33,6 +31,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
 
 ### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
@@ -41,12 +40,14 @@
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 ### AI / ML & Computer Vision
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
@@ -59,6 +60,7 @@
 
 ### 📌 Featured Projects
 
+- 🤖 [SmartAssist-Chatbot](https://github.com/KomalGoel18/SmartAssist-Chatbot) – AI-powered chatbot with intelligent conversational flow, API integration, and modern frontend architecture for smart user assistance.
 - 📝 [NoteMark](https://github.com/KomalGoel18/NoteMark) – Full-stack personal notes & bookmark manager with JWT authentication, search, tag filtering, favorites, MongoDB Atlas, and deployment on Vercel & Render.  
   🔗 **Live Demo:** https://notemark-hub.vercel.app/
 - 🧾 [Intelligent-Registration-System](https://github.com/KomalGoel18/Intelligent-Registration-System) – End-to-end intelligent registration platform with a complete frontend UI and backend automation for validations and workflow processing.
